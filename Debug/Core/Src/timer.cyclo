@@ -1,0 +1,4 @@
+../Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Drivers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	2
+../Core/Src/timer.c:22:6:BASAL_init	1
+../Core/Src/timer.c:48:6:TIM1_UP_TIM10_IRQHandler	2
